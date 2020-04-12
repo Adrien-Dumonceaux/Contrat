@@ -9,3 +9,4 @@ Contrat de prestation services (informaticien, développeur) : Ce contrat encadr
 
 Cession droit auteur logiciel : Ce Contrat encadre le transfert de la propriété intellectuelle sur du code source (Logiciel).
 
+N'hésitez pas à les partager, à les modifier et à proposer des modifications. Ils sont distribués sous licence MIT. Vous pouvez donc les utiliser gratuitement pour votre activité commerciale.   
