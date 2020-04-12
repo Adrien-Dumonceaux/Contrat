@@ -11,7 +11,7 @@ Cession droit auteur logiciel : Ce Contrat encadre le transfert de la propriét�
 
 Contrat de prestation de services (designer, photographes, créateur de contenu) : Ce contrat encadre les prestations de services (missions, tâches, délais, rémunérations, obligations, responsabilités, propriété intellectuelle) d'un designer (UX/UI), d'un photographe, d'un créateur de contenu.
 
-Cession droit auteur design : Ce Contrat encadre le transfert de la propriété intellectuelle sur du contenus créatifs (photos, articles de blog, prototype UX/UI, visuels, affiches, vidéos...).
+Cession droit auteur design : Ce Contrat encadre le transfert de la propriété intellectuelle sur du contenu créatif (photos, articles de blog, prototypes UX/UI, visuels, affiches, vidéos...).
  
 
 N'hésitez pas à les partager, à les modifier et à proposer des modifications. Ils sont distribués sous licence MIT. Vous pouvez donc les utiliser gratuitement pour votre activité commerciale.   
